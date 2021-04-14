@@ -1,6 +1,6 @@
 # search-filter-imp-exp
-プロジェクトウインドウのお気に入り情報をエクスポート/インポートするエディタ拡張
-メニュー > Tools > Open SearchFilterImpExpWindow でウインドウ表示
+プロジェクトウインドウのお気に入り情報をエクスポート/インポートするエディタ拡張  
+メニュー > Tools > Open SearchFilterImpExpWindow でウインドウ表示  
 
 ### Unity Version
 Unity 2018.2.0f2
